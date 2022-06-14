@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorNumber component should render ColorNumber component 1`] = `
+LoadedCheerio {
+  "0": <div
+    class="App"
+  >
+    <div>
+      New
+    </div>
+    <h1
+      style="padding-left:50px"
+    >
+      Number Generator
+    </h1>
+    <div
+      style="display:flex;flex-wrap:wrap;width:350px;padding-left:50px;gap:2px"
+    >
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        0
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        1
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        2
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        3
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        4
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        5
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        6
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        7
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        8
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        9
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        10
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        11
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        12
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        13
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        14
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        15
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        16
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        17
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        18
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        19
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        20
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        21
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        22
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        23
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        24
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        25
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        26
+      </div>
+      <div
+        style="width:40px;height:40px;background:yellow"
+      >
+        27
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        28
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        29
+      </div>
+      <div
+        style="width:40px;height:40px;background:green"
+      >
+        30
+      </div>
+      <div
+        style="width:40px;height:40px;background:red"
+      >
+        31
+      </div>
+    </div>
+  </div>,
+  "_root": LoadedCheerio {
+    "0": Document {
+      "children": Array [
+        <html>
+          <head />
+          <body />
+        </html>,
+      ],
+      "endIndex": null,
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "startIndex": null,
+      "type": "root",
+      "x-mode": "quirks",
+    },
+    "_root": [Circular],
+    "length": 1,
+    "options": Object {
+      "decodeEntities": true,
+      "xml": false,
+    },
+  },
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "xml": false,
+  },
+}
+`;
